@@ -1,0 +1,6 @@
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\05.SlicingFile\bin\Debug\05.SlicingFile.exe.config
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\05.SlicingFile\bin\Debug\05.SlicingFile.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\05.SlicingFile\bin\Debug\05.SlicingFile.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\05.SlicingFile\obj\Debug\05.SlicingFile.csprojResolveAssemblyReference.cache
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\05.SlicingFile\obj\Debug\05.SlicingFile.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\05.SlicingFile\obj\Debug\05.SlicingFile.pdb

@@ -1,0 +1,5 @@
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\02.LineNumbers\bin\Debug\02.LineNumbers.exe.config
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\02.LineNumbers\bin\Debug\02.LineNumbers.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\02.LineNumbers\bin\Debug\02.LineNumbers.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\02.LineNumbers\obj\Debug\02.LineNumbers.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\02.LineNumbers\obj\Debug\02.LineNumbers.pdb

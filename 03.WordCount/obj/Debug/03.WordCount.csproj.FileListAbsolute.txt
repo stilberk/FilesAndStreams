@@ -1,0 +1,6 @@
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\03.WordCount\bin\Debug\03.WordCount.exe.config
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\03.WordCount\bin\Debug\03.WordCount.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\03.WordCount\bin\Debug\03.WordCount.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\03.WordCount\obj\Debug\03.WordCount.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\03.WordCount\obj\Debug\03.WordCount.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\03.WordCount\obj\Debug\03.WordCount.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+c:\users\aiv\documents\visual studio 2015\Projects\01.OddLines\01.OddLines\bin\Debug\01.OddLines.exe.config
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\01.OddLines\bin\Debug\01.OddLines.exe.config
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\01.OddLines\bin\Debug\01.OddLines.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\01.OddLines\bin\Debug\01.OddLines.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\01.OddLines\obj\Debug\01.OddLines.csprojResolveAssemblyReference.cache
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\01.OddLines\obj\Debug\01.OddLines.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\01.OddLines\obj\Debug\01.OddLines.pdb

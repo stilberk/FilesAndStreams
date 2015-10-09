@@ -1,0 +1,6 @@
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe.config
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.csprojResolveAssemblyReference.cache
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.pdb

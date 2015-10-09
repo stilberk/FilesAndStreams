@@ -1,0 +1,6 @@
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.exe.config
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.csprojResolveAssemblyReference.cache
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\FilesAndStreams-HomeWork\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.pdb
